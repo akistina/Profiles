@@ -1,7 +1,11 @@
-*Good Luck Have Fun*
+*Good Luck and Have Fun*
 
-## 感谢
+Forked from [Profiles](https://github.com/ConnersHua/Profiles).
+Customized for personal uses.
 
+## Thanks for
+
+- [ConnersHua](https://github.com/ConnersHua)
 - [lhie1](https://github.com/lhie1)
 - Lison Bin
 - [linjiacheng](https://github.com/linjiacheng)
