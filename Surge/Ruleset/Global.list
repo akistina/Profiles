@@ -512,6 +512,10 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,oneclient.sfx.ms
+# > Steam
+DOMAIN,api.steampowered.com
+DOMAIN,store.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
 # > Other
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
