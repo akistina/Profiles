@@ -1,5 +1,5 @@
 # > CloudFlare
-DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN,speed.cloudflare.com
 
 # > Fast
 DOMAIN-SUFFIX,fast.com
