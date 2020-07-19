@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,arknights.global
 DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,arukas.io
@@ -315,7 +316,6 @@ DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,ssrcloud.org
 DOMAIN-SUFFIX,startpage.com
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,t66y.com
@@ -573,5 +573,3 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
-DOMAIN,api.steampowered.com
-DOMAIN,store.steampowered.com
