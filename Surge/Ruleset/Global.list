@@ -1,3 +1,7 @@
+# > Force Proxy
+DOMAIN-SUFFX,qackqi.cn
+DOMAIN,qackqi-cn.huicuizf.com
+
 # (DNS Cache Pollution)
 # > Apple
 DOMAIN,testflight.apple.com
