@@ -13,6 +13,9 @@ DOMAIN,speedtest.macpaw.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,icloud.com.akadns.net
+
+DOMAIN-SUFFIX,cn
+
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
@@ -28,6 +31,7 @@ DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360in.com
+DOMAIN-SUFFIX,360tpcdn.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,58.com
@@ -121,12 +125,13 @@ DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmct.tv
 DOMAIN-SUFFIX,cmfu.com
-DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,cnlang.org
 DOMAIN-SUFFIX,com-hs-hkdy.com
 DOMAIN-SUFFIX,comicat.org
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,cz88.net
 DOMAIN-SUFFIX,czybjz.com
