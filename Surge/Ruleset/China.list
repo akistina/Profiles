@@ -61,9 +61,6 @@ DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,api.crisp.chat
-DOMAIN-SUFFIX,api.iplay.163.com
-DOMAIN-SUFFIX,apm.music.163.com
-DOMAIN-SUFFIX,apm3.music.163.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
@@ -206,7 +203,6 @@ DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,hxcdn.net
-DOMAIN-SUFFIX,hz.netease.com
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,icedropper.com
 DOMAIN-SUFFIX,icetorrent.org
@@ -222,8 +218,6 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,img4me.com
 DOMAIN-SUFFIX,infinitynewtab.com
-DOMAIN-SUFFIX,interface.music.163.com
-DOMAIN-SUFFIX,interface3.music.163.com
 DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipv6-test.com
@@ -273,7 +267,6 @@ DOMAIN-SUFFIX,lxdns.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,mai.tn
-DOMAIN-SUFFIX,mam.netease.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,maoyun.tv
 DOMAIN-SUFFIX,me.com
@@ -302,8 +295,6 @@ DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,morethan.tv
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,mubu.com
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,myapp.com
