@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,arukas.io
 DOMAIN-SUFFIX,ask.com
+DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
@@ -164,6 +165,7 @@ DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,buzzfeed.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,cachefly.net
+DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
@@ -722,6 +724,7 @@ DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapcraft.io
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,softfamous.com
@@ -851,6 +854,7 @@ DOMAIN-SUFFIX,uProxy.org
 DOMAIN-SUFFIX,ubertags.com
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,uchicago.edu
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,ugo.com
