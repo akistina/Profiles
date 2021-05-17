@@ -15,7 +15,6 @@ DOMAIN,crl3.digicert.com
 DOMAIN,crl4.digicert.com
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 DOMAIN,developer.apple.com
-DOMAIN,international-gfe.download.nvidia.com
 DOMAIN,itunes.apple.com
 DOMAIN,lookup-api.apple.com
 DOMAIN,ocsp.apple.com
@@ -382,6 +381,7 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,global.yuanshen.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalvoices.org
 DOMAIN-SUFFIX,gmail.com
@@ -416,7 +416,9 @@ DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,hightail.com
 DOMAIN-SUFFIX,hitun.io
+DOMAIN-SUFFIX,hk.yuanshen.com
 DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,hk4e-sdk-os.mihoyo.com
 DOMAIN-SUFFIX,hkbf.org
 DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkej.com
@@ -633,6 +635,7 @@ DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,osha.gov
 DOMAIN-SUFFIX,osxdaily.com
 DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,overseauspider.yuanshen.com
 DOMAIN-SUFFIX,ow.ly
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,paddleapi.com
@@ -965,6 +968,7 @@ DOMAIN-SUFFIX,weblagu.com
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,websnapr.com
+DOMAIN-SUFFIX,webstatic-sea.mihoyo.com
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,webwarper.net
 DOMAIN-SUFFIX,weebly.com
