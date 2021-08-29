@@ -31,4 +31,4 @@ DOMAIN,analytics.strava.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > Genshin Impact CN
-DOMAIN-SUFFIX,cnglobal.yuanshen.com
+DOMAIN-KEYWORD,cnglobal.yuanshen
