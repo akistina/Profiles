@@ -1,6 +1,7 @@
-# (HKMTMedia)
-# > 愛奇藝台灣站
-DOMAIN,cache.video.iqiyi.com,HKMTMedia
-# > bilibili
-DOMAIN,api.bilibili.com,HKMTMedia
+DOMAIN-SUFFIX,biliapi.net,HKMTMedia
+DOMAIN-SUFFIX,bilibili.com,HKMTMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,HKMTMedia
+DOMAIN,cache.video.iqiyi.com,HKMTMedia
+IP-CIDR,116.211.202.206/32,HKMTMedia,no-resolve
+IP-CIDR,116.211.202.216/32,HKMTMedia,no-resolve
