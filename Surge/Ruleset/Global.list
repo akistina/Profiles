@@ -62,12 +62,14 @@ DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,geforce
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,global.yuanshen
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,hk.yuanshen
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,jooxweb-api
+DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,os.mihoyo
 DOMAIN-KEYWORD,os-static.mihoyo
 DOMAIN-KEYWORD,oseurodispatch.yuanshen
@@ -438,7 +440,6 @@ DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,geforce.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,get.how
@@ -728,8 +729,6 @@ DOMAIN-SUFFIX,nrk.no
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nuget.org
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,nvidiagrid.net
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytchina.com
