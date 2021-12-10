@@ -67,6 +67,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,global.yuanshen
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,hk.yuanshen
+DOMAIN-KEYWORD,hkg.oss-accelerate.aliyuncs
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-KEYWORD,nvidia
@@ -204,8 +205,6 @@ DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
@@ -666,6 +665,7 @@ DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,modmyi.com
 DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mp3buscador.com
 DOMAIN-SUFFIX,msedge.net
