@@ -49,7 +49,6 @@ DOMAIN,yt3.ggpht.com
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,.hbogoasia.
-DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -120,6 +119,7 @@ DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,allconnected.co
 DOMAIN-SUFFIX,amazon.co
@@ -1034,6 +1034,8 @@ DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typography.com
 DOMAIN-SUFFIX,uProxy.org
 DOMAIN-SUFFIX,ubertags.com
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ublock.org
 DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,uchicago.edu
