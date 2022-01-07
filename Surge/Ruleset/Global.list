@@ -49,6 +49,7 @@ DOMAIN,yt3.ggpht.com
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,.hbogoasia.
+DOMAIN-KEYWORD,account.mihoyo
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
@@ -62,6 +63,7 @@ DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,geforce
+DOMAIN-KEYWORD,genshin.mihoyo
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,global.yuanshen
 DOMAIN-KEYWORD,google
@@ -511,6 +513,7 @@ DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,howtoforge.com
+DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,html5rocks.com
 DOMAIN-SUFFIX,hudson.org
 DOMAIN-SUFFIX,huffpost.com
@@ -637,6 +640,7 @@ DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,mangakakalot.com
 DOMAIN-SUFFIX,mangaup.jp
 DOMAIN-SUFFIX,manhuaren.com
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,marc.info
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
