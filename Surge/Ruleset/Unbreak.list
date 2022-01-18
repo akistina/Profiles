@@ -18,3 +18,6 @@ DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 # > Genshin Impact CN
 DOMAIN-KEYWORD,cnglobal.yuanshen
+# > DNS
+DOMAIN,doh.pub
+DOMAIN,dns.alidns.com
