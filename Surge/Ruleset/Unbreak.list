@@ -19,5 +19,7 @@ DOMAIN,msg.umengcloud.com
 # > Genshin Impact CN
 DOMAIN-KEYWORD,cnglobal.yuanshen
 # > DNS
-DOMAIN,doh.pub
-DOMAIN,dns.alidns.com
+IP-CIDR,162.14.21.56/32,no-resolve
+IP-CIDR,162.14.21.178/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
