@@ -1,2 +1,8 @@
+# Script
 DOMAIN-SUFFIX,qackqi.cn
 DOMAIN,qackqi-cn.huicuizf.com
+
+# DNS
+DOMAIN,dns.google
+DOMAIN,1.1.1.1
+DOMAIN,1.0.0.1
