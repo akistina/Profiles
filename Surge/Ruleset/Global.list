@@ -77,7 +77,7 @@ DOMAIN-KEYWORD,osasiadispatch.yuanshen
 DOMAIN-KEYWORD,osusadispatch.yuanshen
 DOMAIN-KEYWORD,oschtdispatch.yuanshen
 DOMAIN-KEYWORD,overseauspider.yuanshen
-DOMAIN-KEYWORD,samsung
+DOMAIN-KEYWORD,sams
 DOMAIN-KEYWORD,sea.mihoyo
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,tesla
@@ -476,6 +476,7 @@ DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,goodreaders.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gosetsuden.jp
+DOMAIN-SUFFIX,gos-gsp.io
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,gravatar.com
@@ -651,6 +652,7 @@ DOMAIN-SUFFIX,mathjax.org
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
@@ -902,6 +904,7 @@ DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smartdnsproxy.com
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,smartmediarep.com
+DOMAIN-SUFFIX,smartthings.com
 DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,snapchat.com
