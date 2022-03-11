@@ -1,5 +1,7 @@
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
+DOMAIN-KEYWORD,itunes
+DOMAIN-KEYWORD,mzstatic
 
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -14,9 +16,7 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
 
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
