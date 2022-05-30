@@ -48,7 +48,6 @@ DOMAIN,yt3.ggpht.com,Proxies
 DOMAIN-KEYWORD,-spotify-com,Proxies
 DOMAIN-KEYWORD,-tiktokcdn-com,Proxies
 DOMAIN-KEYWORD,.hbogoasia.,Proxies
-DOMAIN-KEYWORD,abematv.akamaized.net,Proxies
 DOMAIN-KEYWORD,appledaily,Proxies
 DOMAIN-KEYWORD,avoddashs,Proxies
 DOMAIN-KEYWORD,bbcfmt,Proxies
@@ -61,12 +60,15 @@ DOMAIN-KEYWORD,epicgames,Proxies
 DOMAIN-KEYWORD,dualstack.apiproxy-,Proxies
 DOMAIN-KEYWORD,dualstack.ichnaea-web-,Proxies
 DOMAIN-KEYWORD,facebook,Proxies
+DOMAIN-KEYWORD,geforce,Proxies
 DOMAIN-KEYWORD,github,Proxies
 DOMAIN-KEYWORD,global.yuanshen,Proxies
 DOMAIN-KEYWORD,google,Proxies
 DOMAIN-KEYWORD,hk.yuanshen,Proxies
+DOMAIN-KEYWORD,hkg.oss-accelerate.aliyuncs,Proxies
 DOMAIN-KEYWORD,instagram,Proxies
 DOMAIN-KEYWORD,jooxweb-api,Proxies
+DOMAIN-KEYWORD,nvidia,Proxies
 DOMAIN-KEYWORD,os.mihoyo,Proxies
 DOMAIN-KEYWORD,os-static.mihoyo,Proxies
 DOMAIN-KEYWORD,oseurodispatch.yuanshen,Proxies
@@ -74,6 +76,7 @@ DOMAIN-KEYWORD,osasiadispatch.yuanshen,Proxies
 DOMAIN-KEYWORD,osusadispatch.yuanshen,Proxies
 DOMAIN-KEYWORD,oschtdispatch.yuanshen,Proxies
 DOMAIN-KEYWORD,overseauspider.yuanshen,Proxies
+DOMAIN-KEYWORD,sams,Proxies
 DOMAIN-KEYWORD,sea.mihoyo,Proxies
 DOMAIN-KEYWORD,spotify.com,Proxies
 DOMAIN-KEYWORD,tesla,Proxies
@@ -99,6 +102,7 @@ DOMAIN-SUFFIX,abebooks.com,Proxies
 DOMAIN-SUFFIX,abema.io,Proxies
 DOMAIN-SUFFIX,abema.tv,Proxies
 DOMAIN-SUFFIX,abpchina.org,Proxies
+DOMAIN-SUFFIX,account.mihoyo.com,Proxies
 DOMAIN-SUFFIX,accountkit.com,Proxies
 DOMAIN-SUFFIX,accuweather.com,Proxies
 DOMAIN-SUFFIX,adblockplus.org,Proxies
@@ -115,6 +119,7 @@ DOMAIN-SUFFIX,aiv-delivery.net,Proxies
 DOMAIN-SUFFIX,aka.ms,Proxies
 DOMAIN-SUFFIX,akamai.net,Proxies
 DOMAIN-SUFFIX,akamaihd.net,Proxies
+DOMAIN-SUFFIX,akamaized.net,Proxies
 DOMAIN-SUFFIX,alfredapp.com,Proxies
 DOMAIN-SUFFIX,allconnected.co,Proxies
 DOMAIN-SUFFIX,amazon.co,Proxies
@@ -200,7 +205,6 @@ DOMAIN-SUFFIX,bigsound.org,Proxies
 DOMAIN-SUFFIX,biliintl.com,Proxies
 DOMAIN-SUFFIX,binance.cc,Proxies
 DOMAIN-SUFFIX,binance.com,Proxies
-DOMAIN-SUFFIX,bing.com,Proxies
 DOMAIN-SUFFIX,bing.net,Proxies
 DOMAIN-SUFFIX,bintray.com,Proxies
 DOMAIN-SUFFIX,bit.com,Proxies
@@ -436,9 +440,9 @@ DOMAIN-SUFFIX,garena.com,Proxies
 DOMAIN-SUFFIX,gate.hockeyapp.net,Proxies
 DOMAIN-SUFFIX,gate.io,Proxies
 DOMAIN-SUFFIX,gcr.io,Proxies
-DOMAIN-SUFFIX,geforce.com,Proxies
 DOMAIN-SUFFIX,geni.us,Proxies
 DOMAIN-SUFFIX,genius.com,Proxies
+DOMAIN-SUFFIX,genshin.mihoyo.com,Proxies
 DOMAIN-SUFFIX,get.how,Proxies
 DOMAIN-SUFFIX,getcloudapp.com,Proxies
 DOMAIN-SUFFIX,getfoxyProxy.org,Proxies
@@ -470,6 +474,7 @@ DOMAIN-SUFFIX,goo.ne.jp,Proxies
 DOMAIN-SUFFIX,goodreaders.com,Proxies
 DOMAIN-SUFFIX,goodreads.com,Proxies
 DOMAIN-SUFFIX,gosetsuden.jp,Proxies
+DOMAIN-SUFFIX,gos-gsp.io,Proxies
 DOMAIN-SUFFIX,gov,Proxies
 DOMAIN-SUFFIX,gov.tw,Proxies
 DOMAIN-SUFFIX,gravatar.com,Proxies
@@ -481,6 +486,7 @@ DOMAIN-SUFFIX,gunsamerica.com,Proxies
 DOMAIN-SUFFIX,gv.com,Proxies
 DOMAIN-SUFFIX,gvt0.com,Proxies
 DOMAIN-SUFFIX,gvt1.com,Proxies
+DOMAIN-SUFFIX,gvt2.com,Proxies
 DOMAIN-SUFFIX,gvt3.com,Proxies
 DOMAIN-SUFFIX,gwtproject.org,Proxies
 DOMAIN-SUFFIX,hackmd.io,Proxies
@@ -508,6 +514,7 @@ DOMAIN-SUFFIX,hockeyapp.net,Proxies
 DOMAIN-SUFFIX,homedepot.com,Proxies
 DOMAIN-SUFFIX,hootsuite.com,Proxies
 DOMAIN-SUFFIX,howtoforge.com,Proxies
+DOMAIN-SUFFIX,hoyolab.com,Proxies
 DOMAIN-SUFFIX,html5rocks.com,Proxies
 DOMAIN-SUFFIX,hudson.org,Proxies
 DOMAIN-SUFFIX,huffpost.com,Proxies
@@ -634,6 +641,7 @@ DOMAIN-SUFFIX,mailchimp.com,Proxies
 DOMAIN-SUFFIX,mangakakalot.com,Proxies
 DOMAIN-SUFFIX,mangaup.jp,Proxies
 DOMAIN-SUFFIX,manhuaren.com,Proxies
+DOMAIN-SUFFIX,manjaro.org,Proxies
 DOMAIN-SUFFIX,marc.info,Proxies
 DOMAIN-SUFFIX,marketwatch.com,Proxies
 DOMAIN-SUFFIX,mashable.com,Proxies
@@ -642,6 +650,7 @@ DOMAIN-SUFFIX,mathjax.org,Proxies
 DOMAIN-SUFFIX,matters.news,Proxies
 DOMAIN-SUFFIX,maven.org,Proxies
 DOMAIN-SUFFIX,maying.co,Proxies
+DOMAIN-SUFFIX,mcafee.com,Proxies
 DOMAIN-SUFFIX,media-amazon.com,Proxies
 DOMAIN-SUFFIX,medium.com,Proxies
 DOMAIN-SUFFIX,mega.co.nz,Proxies
@@ -662,6 +671,7 @@ DOMAIN-SUFFIX,mobile01.com,Proxies
 DOMAIN-SUFFIX,modmyi.com,Proxies
 DOMAIN-SUFFIX,moves-export.com,Proxies
 DOMAIN-SUFFIX,mozilla.com,Proxies
+DOMAIN-SUFFIX,mozilla.net,Proxies
 DOMAIN-SUFFIX,mozilla.org,Proxies
 DOMAIN-SUFFIX,mp3buscador.com,Proxies
 DOMAIN-SUFFIX,msedge.net,Proxies
@@ -726,8 +736,6 @@ DOMAIN-SUFFIX,nrk.no,Proxies
 DOMAIN-SUFFIX,nsstatic.net,Proxies
 DOMAIN-SUFFIX,nssurge.com,Proxies
 DOMAIN-SUFFIX,nuget.org,Proxies
-DOMAIN-SUFFIX,nvidia.com,Proxies
-DOMAIN-SUFFIX,nvidiagrid.net,Proxies
 DOMAIN-SUFFIX,nyaa.si,Proxies
 DOMAIN-SUFFIX,nyt.com,Proxies
 DOMAIN-SUFFIX,nytchina.com,Proxies
@@ -894,6 +902,7 @@ DOMAIN-SUFFIX,slideshare.net,Proxies
 DOMAIN-SUFFIX,smartdnsproxy.com,Proxies
 DOMAIN-SUFFIX,smartmailcloud.com,Proxies
 DOMAIN-SUFFIX,smartmediarep.com,Proxies
+DOMAIN-SUFFIX,smartthings.com,Proxies
 DOMAIN-SUFFIX,smh.com.au,Proxies
 DOMAIN-SUFFIX,smoot.apple.com,Proxies
 DOMAIN-SUFFIX,snapchat.com,Proxies
@@ -1032,6 +1041,8 @@ DOMAIN-SUFFIX,typekit.net,Proxies
 DOMAIN-SUFFIX,typography.com,Proxies
 DOMAIN-SUFFIX,uProxy.org,Proxies
 DOMAIN-SUFFIX,ubertags.com,Proxies
+DOMAIN-SUFFIX,ubi.com,Proxies
+DOMAIN-SUFFIX,ubisoft.com,Proxies
 DOMAIN-SUFFIX,ublock.org,Proxies
 DOMAIN-SUFFIX,ubnt.com,Proxies
 DOMAIN-SUFFIX,uchicago.edu,Proxies

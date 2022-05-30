@@ -10,3 +10,7 @@ DOMAIN,analytics.strava.com,DIRECT
 DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
 DOMAIN-KEYWORD,cnglobal.yuanshen,DIRECT
+IP-CIDR,162.14.21.56/32,DIRECT,no-resolve
+IP-CIDR,162.14.21.178/32,DIRECT,no-resolve
+IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
+IP-CIDR,223.6.6.6/32,DIRECT,no-resolve

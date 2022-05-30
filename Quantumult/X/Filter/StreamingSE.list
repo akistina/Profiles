@@ -1,0 +1,16 @@
+DOMAIN,api.biliapi.com,HKMTMedia
+DOMAIN,api.biliapi.net,HKMTMedia
+DOMAIN,api.bilibili.com,HKMTMedia
+DOMAIN,app.biliapi.com,HKMTMedia
+DOMAIN,app.biliapi.net,HKMTMedia
+DOMAIN,app.bilibili.com,HKMTMedia
+DOMAIN,grpc.biliapi.net,HKMTMedia
+DOMAIN,m.bilibili.com,HKMTMedia
+DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
+DOMAIN,www.bilibili.com,HKMTMedia
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,HKMTMedia
+DOMAIN,cache.video.iqiyi.com,HKMTMedia
+IP-CIDR,116.211.202.206/32,HKMTMedia,no-resolve
+IP-CIDR,116.211.202.216/32,HKMTMedia,no-resolve
+DOMAIN-SUFFIX,api.mgtv.com,HKMTMedia
+DOMAIN,mobileso.bz.mgtv.com,HKMTMedia
