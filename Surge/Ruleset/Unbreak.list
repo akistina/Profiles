@@ -5,7 +5,9 @@ DOMAIN,bdtj.tagtic.cn
 # > Alibaba
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
-# >> Paramount+
+# > Apple Location Services
+DOMAIN-KEYWORD,gs-loc
+# > Paramount+
 DOMAIN,pubads.g.doubleclick.net
 # > Tencent
 DOMAIN,fairplay.l.qq.com
