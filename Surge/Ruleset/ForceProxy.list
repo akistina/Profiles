@@ -4,12 +4,8 @@ DOMAIN,qackqi-cn.huicuizf.com
 
 # DNS
 # Cloudflare
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.0.0.1/32,no-resolve
-IP-CIDR,104.16.132.229/32,no-resolve
-IP-CIDR,104.16.133.229/32,no-resolve
+DOMAIN-SUFFIX,cloudflare-dns.com
 # Google
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
+DOMAIN-SUFFIX,dns.google
 # OpenDNS
-IP-CIDR,146.112.41.2/32,no-resolve
+DOMAIN-SUFFIX,doh.opendns.com
