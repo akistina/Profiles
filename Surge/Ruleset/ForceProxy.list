@@ -5,7 +5,5 @@ DOMAIN,qackqi-cn.huicuizf.com
 # DNS
 # Cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
-# Google
-DOMAIN-SUFFIX,dns.google
 # OpenDNS
 DOMAIN-SUFFIX,doh.opendns.com
