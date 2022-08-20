@@ -58,6 +58,7 @@ DOMAIN-KEYWORD,canonical
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,epicgames
+DOMAIN-KEYWORD,debian
 DOMAIN-KEYWORD,dualstack.apiproxy-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,facebook
@@ -67,6 +68,7 @@ DOMAIN-KEYWORD,global.yuanshen
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,hk.yuanshen
 DOMAIN-KEYWORD,hkg.oss-accelerate.aliyuncs
+DOMAIN-KEYWORD,hoyoverse.com
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-KEYWORD,nvidia
