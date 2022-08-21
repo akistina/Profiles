@@ -7,3 +7,5 @@ DOMAIN,qackqi-cn.huicuizf.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 # OpenDNS
 DOMAIN-SUFFIX,opendns.com
+# Quad9
+DOMAIN-SUFFIX,quad9.net
