@@ -6,4 +6,4 @@ DOMAIN,qackqi-cn.huicuizf.com
 # Cloudflare
 DOMAIN-SUFFIX,cloudflare-dns.com
 # OpenDNS
-DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,opendns.com
