@@ -1,0 +1,18 @@
+payload:
+  - DOMAIN,app.adjust.com
+  - DOMAIN,bdtj.tagtic.cn
+  - DOMAIN,log.mmstat.com
+  - DOMAIN,sycm.mmstat.com
+  - DOMAIN-KEYWORD,gs-loc
+  - DOMAIN,pubads.g.doubleclick.net
+  - DOMAIN,fairplay.l.qq.com
+  - DOMAIN,livew.l.qq.com
+  - DOMAIN,vd.l.qq.com
+  - DOMAIN,analytics.strava.com
+  - DOMAIN,msg.umeng.com
+  - DOMAIN,msg.umengcloud.com
+  - DOMAIN-KEYWORD,cnglobal.yuanshen
+  - IP-CIDR,162.14.21.56/32,no-resolve
+  - IP-CIDR,162.14.21.178/32,no-resolve
+  - IP-CIDR,223.5.5.5/32,no-resolve
+  - IP-CIDR,223.6.6.6/32,no-resolve
