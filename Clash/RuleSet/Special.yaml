@@ -1,2 +1,5 @@
 payload:
-  - '+.archive.org'
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-KEYWORD,apkaward
+  - DOMAIN-KEYWORD,openai
+  
