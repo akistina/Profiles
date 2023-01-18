@@ -49,7 +49,9 @@ payload:
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,.hbogoasia.
+  - DOMAIN-KEYWORD,anydesk
   - DOMAIN-KEYWORD,appledaily
+  - DOMAIN-KEYWORD,asus
   - DOMAIN-KEYWORD,avoddashs
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,beetalk
@@ -73,6 +75,7 @@ payload:
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,jooxweb-api
   - DOMAIN-KEYWORD,mozilla
+  - DOMAIN-KEYWORD,msi
   - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,os.mihoyo
   - DOMAIN-KEYWORD,os-static.mihoyo
