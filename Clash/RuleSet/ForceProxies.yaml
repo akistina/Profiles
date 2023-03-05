@@ -4,3 +4,6 @@ payload:
   - '+.cloudflare-dns.com'
   - '+.opendns.com'
   - '+.quad9.net'
+  - '+.msftncsi.com'
+  - '+.msftconnecttest.com'
+  
