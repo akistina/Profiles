@@ -1,7 +1,7 @@
 payload:
   # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,openai.com
 
   # > Chat GPT API & CDN
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
