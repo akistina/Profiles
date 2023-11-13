@@ -46,6 +46,7 @@ payload:
   - DOMAIN,www.icloud.com
   - DOMAIN,xp.apple.com
   - DOMAIN,yt3.ggpht.com
+
   - DOMAIN-KEYWORD,-spotify-com
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,.hbogoasia.
@@ -78,6 +79,7 @@ payload:
   - DOMAIN-KEYWORD,msi
   - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,os.mihoyo
+  - DOMAIN-KEYWORD,os.starrails
   - DOMAIN-KEYWORD,os-static.mihoyo
   - DOMAIN-KEYWORD,oseurodispatch.yuanshen
   - DOMAIN-KEYWORD,osasiadispatch.yuanshen
@@ -93,6 +95,7 @@ payload:
   - DOMAIN-KEYWORD,uk-live
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,whatsapp
+
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2o7.net
