@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,apkaward
+  - DOMAIN-SUFFIX,apkaward.com
+  - DOMAIN-SUFFIX,servethehome.com
