@@ -1,0 +1,13 @@
+payload:
+  # > OpenAI
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+
+  - DOMAIN-KEYWORD,openai
+
+  # > OpenAI API & CDN
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+
+  # > Gemini
+  - DOMAIN-SUFFIX,gemini.google.com
