@@ -329,6 +329,7 @@ payload:
   - DOMAIN-SUFFIX,dazn.com
   - DOMAIN-SUFFIX,dazndn.com
   - DOMAIN-SUFFIX,db.tt
+  - DOMAIN-SUFFIX,db-ip.com
   - DOMAIN-SUFFIX,dcard.tw
   - DOMAIN-SUFFIX,dcmilitary.com
   - DOMAIN-SUFFIX,deadline.com
@@ -564,6 +565,7 @@ payload:
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,io.io
   - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,ipaddress.com
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,ipn.li
