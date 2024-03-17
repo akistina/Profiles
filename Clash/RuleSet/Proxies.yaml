@@ -79,7 +79,6 @@ payload:
   - DOMAIN-KEYWORD,msi
   - DOMAIN-KEYWORD,nvidia
   - DOMAIN-KEYWORD,os.mihoyo
-  - DOMAIN-KEYWORD,os.starrails
   - DOMAIN-KEYWORD,os-static.mihoyo
   - DOMAIN-KEYWORD,oseurodispatch.yuanshen
   - DOMAIN-KEYWORD,osasiadispatch.yuanshen
@@ -89,6 +88,7 @@ payload:
   - DOMAIN-KEYWORD,sams
   - DOMAIN-KEYWORD,sea.mihoyo
   - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,starrails
   - DOMAIN-KEYWORD,tesla
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,ubuntu
