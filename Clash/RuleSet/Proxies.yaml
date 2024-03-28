@@ -772,6 +772,7 @@ payload:
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,orientaldaily.com.my
   - DOMAIN-SUFFIX,orkut.com
+  - DOMAIN-SUFFIX,ospserver.net
   - DOMAIN-SUFFIX,osxdaily.com
   - DOMAIN-SUFFIX,overcast.fm
   - DOMAIN-SUFFIX,ow.ly
@@ -1007,6 +1008,7 @@ payload:
   - DOMAIN-SUFFIX,tinychat.com
   - DOMAIN-SUFFIX,tinypic.com
   - DOMAIN-SUFFIX,tinyurl.com
+  - DOMAIN-SUFFIX,tizen.org
   - DOMAIN-SUFFIX,tl88.net
   - DOMAIN-SUFFIX,tmblr.co
   - DOMAIN-SUFFIX,todoist.com
