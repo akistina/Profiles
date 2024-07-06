@@ -96,6 +96,13 @@ payload:
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,whatsapp
 
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,surfshark.com
+  - DOMAIN-SUFFIX,surfsharkdns.com
+
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2o7.net
