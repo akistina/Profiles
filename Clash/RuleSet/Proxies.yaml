@@ -97,6 +97,7 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
 
   - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.net
   - DOMAIN-SUFFIX,browserleaks.org
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,ipleak.net
