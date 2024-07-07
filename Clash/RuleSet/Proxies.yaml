@@ -96,6 +96,8 @@ payload:
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,whatsapp
 
+  - DOMAIN-SUFFIX,zenlesszonezero
+
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,browserleaks.net
   - DOMAIN-SUFFIX,browserleaks.org
@@ -644,6 +646,7 @@ payload:
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,linode.com
   - DOMAIN-SUFFIX,listennotes.com
+  - DOMAIN-SUFFIX,listdl.com
   - DOMAIN-SUFFIX,lithium.com
   - DOMAIN-SUFFIX,littlehj.com
   - DOMAIN-SUFFIX,litv.tv
