@@ -7,7 +7,8 @@ var obj = JSON.parse(body);
 var title = obj['country'];
 var subtitle = obj['city'] + ', ' + obj['isp'];
 var ip = obj['query'];
-var description = "IP: " + obj['query'] + '\n\n' +
+var description = "\n" +
+                  "IP: " + obj['query'] + '\n\n' +
                   "Location: " + obj['city'] + ", " + obj['regionName'] + ", " + obj['country'] + '\n\n' +
                   "ISP: " + obj['isp'] + '\n' +
                   "Org: " + obj['org'] + '\n' +
