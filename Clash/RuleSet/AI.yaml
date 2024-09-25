@@ -1,13 +1,25 @@
 payload:
-  # > OpenAI
+  # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,chatgpt.com
 
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,oaistatic
+  - DOMAIN-KEYWORD,oaiusercontent
 
-  # > OpenAI API & CDN
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
+  # > Claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+  # > Copilot
+  - DOMAIN-SUFFIX,copilot.microsoft.com
 
   # > Gemini
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+  # > Meta AI
+  - DOMAIN-SUFFIX,meta.ai
+
+  # > Perplexity AI
+  - DOMAIN-SUFFIX,perplexity.ai
