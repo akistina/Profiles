@@ -11,6 +11,7 @@ payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
+  - DOMAIN,static.asus.com.cn
   - DOMAIN-KEYWORD,cnglobal.yuanshen
   - DOMAIN-SUFFIX,speedtest.cn
   - IP-CIDR,162.14.21.56/32,no-resolve
