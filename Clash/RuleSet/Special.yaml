@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,noctua.at
   - DOMAIN-SUFFIX,apkaward.com
   - DOMAIN-SUFFIX,apkawards.com
-  - DOMAIN-SUFFIX,servethehome.com
+  - DOMAIN-SUFFIX,openwrt.org
