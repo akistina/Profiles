@@ -19,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN,copilot.microsoft.com
 
+  # > DeepSeek
+  - DOMAIN-SUFFIX,deepseek.com
+
   # > Dify.AI
   - DOMAIN-SUFFIX,dify.ai
 
