@@ -106,6 +106,9 @@ payload:
   - DOMAIN-SUFFIX,surfshark.com
   - DOMAIN-SUFFIX,surfsharkdns.com
 
+  - DOMAIN-SUFFIX,init.miui.com
+  - DOMAIN-SUFFIX,global.xiaomi.net
+
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2o7.net
