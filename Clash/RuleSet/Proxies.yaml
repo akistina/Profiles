@@ -109,6 +109,7 @@ payload:
   - DOMAIN-SUFFIX,init.miui.com
   - DOMAIN-SUFFIX,intl.miui.com
   - DOMAIN-SUFFIX,intl.xiaomi.com
+  - DOMAIN-SUFFIX,global.xiaomi.com
   - DOMAIN-SUFFIX,global.xiaomi.net
 
   - DOMAIN-SUFFIX,1e100.net
