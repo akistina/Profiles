@@ -96,6 +96,7 @@ payload:
   - DOMAIN-KEYWORD,voddazn
   - DOMAIN-KEYWORD,whatsapp
 
+  - DOMAIN-SUFFIX,maa-org.net
   - DOMAIN-SUFFIX,zenlesszonezero.com
 
   - DOMAIN-SUFFIX,browserleaks.com
