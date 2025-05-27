@@ -97,6 +97,7 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
 
   - DOMAIN-SUFFIX,maa-org.net
+  - DOMAIN-SUFFIX,moegirl.org.cn
   - DOMAIN-SUFFIX,zenlesszonezero.com
 
   - DOMAIN-SUFFIX,browserleaks.com
