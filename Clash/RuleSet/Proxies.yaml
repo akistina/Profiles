@@ -97,6 +97,11 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
 
   - DOMAIN-SUFFIX,eset.com
+  - DOMAIN-SUFFIX,eset.sk
+  - DOMAIN-SUFFIX,esetsoftware.com
+  - DOMAIN-SUFFIX,eset.systems
+  - DOMAIN-SUFFIX,e5.sk
+
   - DOMAIN-SUFFIX,maa-org.net
   - DOMAIN-SUFFIX,zenlesszonezero.com
 
