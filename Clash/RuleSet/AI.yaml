@@ -1,4 +1,8 @@
 payload:
+  # > Augment
+  - DOMAIN-SUFFIX,augment.com
+  - DOMAIN-SUFFIX,augmentcode.com
+
   # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
 
@@ -6,6 +10,8 @@ payload:
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,oaistatic
   - DOMAIN-KEYWORD,oaiusercontent
+
+  - DOMAIN,o33249.ingest.sentry.io
 
   # > Claude
   - DOMAIN-SUFFIX,anthropic.com
@@ -15,12 +21,21 @@ payload:
   # > Cloudflare AI Gateway
   - DOMAIN,gateway.ai.cloudflare.com
 
+  # > DIA
+  - DOMAIN-SUFFIX,diabrowser.engineering
+
+  # > Windsurf
+  - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,codeiumdata.com
+
   # > Copilot
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN,copilot.microsoft.com
 
-  # > DeepSeek
-  - DOMAIN-SUFFIX,deepseek.com
+  # > Cursor
+  - DOMAIN-SUFFIX,cursor.sh
 
   # > Dify.AI
   - DOMAIN-SUFFIX,dify.ai
@@ -29,6 +44,7 @@ payload:
   - DOMAIN,api.github.com
 
   # > Google Gemini
+  - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google.com
 
@@ -54,6 +70,10 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
 
+  # > Grok
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
+
   # > Groq
   - DOMAIN-SUFFIX,groq.com
 
@@ -66,6 +86,9 @@ payload:
 
   # > OpenArt
   - DOMAIN-SUFFIX,openart.ai
+
+  # > OpenRouter
+  - DOMAIN-SUFFIX,openrouter.ai
 
   # > Perplexity AI
   - DOMAIN-SUFFIX,perplexity.ai
@@ -81,3 +104,6 @@ payload:
   # > Sora
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,sora-cdn.oaistatic.com
+
+  # > Zed
+  - DOMAIN-SUFFIX,zed.dev
