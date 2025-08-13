@@ -60,6 +60,7 @@ payload:
   - DOMAIN-KEYWORD,canonical
   - DOMAIN-KEYWORD,dlercloud
   - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-KEYWORD,egdownload
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,debian
   - DOMAIN-KEYWORD,dualstack.apiproxy-
