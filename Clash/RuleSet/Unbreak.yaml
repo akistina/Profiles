@@ -15,6 +15,7 @@ payload:
   - DOMAIN,static.asus.com.cn
   - DOMAIN-KEYWORD,cnglobal.yuanshen
   - DOMAIN-SUFFIX,speedtest.cn
+  - DOMAIN-SUFFIX,cnspeedtest.cn
   - DOMAIN-SUFFIX,img.moegirl.org.cn
   - IP-CIDR,162.14.21.56/32,no-resolve
   - IP-CIDR,162.14.21.178/32,no-resolve
