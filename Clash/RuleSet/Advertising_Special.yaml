@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN,ad.api.188pi.com
+  - DOMAIN,ad.sz-cooleasy.com
+  - DOMAIN,jdstore.sz-cooleasy.com
+  - DOMAIN,sentry-report.leyaoyao.com
   - DOMAIN-SUFFIX,amdc.m.taobao.com
   - DOMAIN-SUFFIX,dns.wechat.com
   - IP-CIDR,103.172.41.121/32,no-resolve
