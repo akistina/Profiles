@@ -6,5 +6,6 @@ payload:
   - DOMAIN,sentry-report.leyaoyao.com
   - DOMAIN-SUFFIX,amdc.m.taobao.com
   - DOMAIN-SUFFIX,dns.wechat.com
+  - IP-CIDR,103.186.142.8/32,no-resolve
   - IP-CIDR,103.172.41.121/32,no-resolve
   - IP-CIDR,202.153.197.150/32,no-resolve
