@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,dataflow.biliapi.com
   # QQ
   - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN-SUFFIX,e.qq.com
   - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
   # Idlefish
   - DOMAIN-SUFFIX,px.ucweb.com
