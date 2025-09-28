@@ -1,5 +1,12 @@
 payload:
+  # bilibili
+  - DOMAIN-SUFFIX,dataflow.biliapi.com
+  # QQ
   - DOMAIN-SUFFIX,beacon.qq.com
   - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
+  # Idlefish
+  - DOMAIN-SUFFIX,px.ucweb.com
+  # Yiche
   - DOMAIN-SUFFIX,qchannel03.cn
+  # School
   - DOMAIN-SUFFIX,yfanads.com
