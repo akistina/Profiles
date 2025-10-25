@@ -13,6 +13,7 @@ payload:
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,static.asus.com.cn
+  - DOMAIN,connectivity.samsung.com.cn
   - DOMAIN-KEYWORD,cnglobal.yuanshen
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,cnspeedtest.cn
