@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,allawnofs.com
   - DOMAIN-SUFFIX,accounts.oneplus.com
   - DOMAIN-SUFFIX,community.oneplus.com
+  - DOMAIN-KEYWORD,eu.heytapdl
   - DOMAIN-KEYWORD,euex.heytapdl
   - DOMAIN-KEYWORD,eu.heytapmobile
   - DOMAIN-KEYWORD,eu.oneplus
