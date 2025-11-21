@@ -120,6 +120,13 @@ payload:
   - DOMAIN-SUFFIX,global.xiaomi.com
   - DOMAIN-SUFFIX,global.xiaomi.net
 
+  - DOMAIN-SUFFIX,allawnofs.com
+  - DOMAIN-SUFFIX,accounts.oneplus.com
+  - DOMAIN-SUFFIX,community.oneplus.com
+  - DOMAIN-KEYWORD,euex.heytapdl
+  - DOMAIN-KEYWORD,eu.heytapmobile
+  - DOMAIN-KEYWORD,eu.oneplus
+
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2o7.net
