@@ -41,9 +41,6 @@ payload:
   # > Dify.AI
   - DOMAIN-SUFFIX,dify.ai
 
-  # > GitHub Copilot
-  - DOMAIN,api.github.com
-
   # > Google AI Studio
   - DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,aistudio.google.com
