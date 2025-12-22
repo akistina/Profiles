@@ -103,6 +103,8 @@ payload:
   - DOMAIN-SUFFIX,eset.systems
   - DOMAIN-SUFFIX,e5.sk
 
+  - DOMAIN-KEYWORD,kaspersky
+
   - DOMAIN-SUFFIX,maa-org.net
   - DOMAIN-SUFFIX,zenlesszonezero.com
 
