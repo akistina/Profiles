@@ -1,5 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,za.group
+  - DOMAIN-SUFFIX,zaticdn.com
+  - DOMAIN-SUFFIX,zafinsvc.com
+  - DOMAIN-SUFFIX,zajourney.com
   - DOMAIN,client.amplifi.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,file-igamecj.akamaized.net
