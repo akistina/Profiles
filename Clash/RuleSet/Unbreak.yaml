@@ -4,6 +4,7 @@ payload:
   - DOMAIN,log.mmstat.com
   - DOMAIN,sycm.mmstat.com
   - DOMAIN,dler.cloud
+  - DOMAIN,em.mesl.cloud
   - DOMAIN-KEYWORD,gs-loc
   - DOMAIN,pubads.g.doubleclick.net
   - DOMAIN,fairplay.l.qq.com
