@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
 
   - IP-CIDR,151.101.0.0/16,no-resolve
+  - IP-CIDR,185.199.108.0/22,no-resolve
