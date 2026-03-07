@@ -1,14 +1,7 @@
 payload:
-  - +.noctua.at
-  - +.apkaward.com
-  - +.apkawards.com
-  - +.openwrt.org
+  - DOMAIN-SUFFIX,noctua.at
+  - DOMAIN-SUFFIX,apkaward.com
+  - DOMAIN-SUFFIX,apkawards.com
+  - DOMAIN-SUFFIX,openwrt.org
 
-  - +.fastly-edge.com
-  - +.fastly-terrarium.com
-  - +.fastly.com
-  - +.fastly.io
-  - +.fastly.net
-  - +.fastlylabs.com
-  - +.fastlylb.net
-  - +.zencdn.net
+  - IP-CIDR,151.101.0.0/16,no-resolve
