@@ -1,5 +1,14 @@
 payload:
-  - DOMAIN,noctua.at
-  - DOMAIN-SUFFIX,apkaward.com
-  - DOMAIN-SUFFIX,apkawards.com
-  - DOMAIN-SUFFIX,openwrt.org
+  - +.noctua.at
+  - +.apkaward.com
+  - +.apkawards.com
+  - +.openwrt.org
+
+  - +.fastly-edge.com
+  - +.fastly-terrarium.com
+  - +.fastly.com
+  - +.fastly.io
+  - +.fastly.net
+  - +.fastlylabs.com
+  - +.fastlylb.net
+  - +.zencdn.net
