@@ -6,6 +6,10 @@ payload:
   - DOMAIN,connectivity.samsung.com.cn
   
   - DOMAIN-SUFFIX,bochk.com
+  - DOMAIN-SUFFIX,za.group
+  - DOMAIN-SUFFIX,zaticdn.com
+  - DOMAIN-SUFFIX,zafinsvc.com
+  - DOMAIN-SUFFIX,zajourney.com
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,cnspeedtest.cn
   
