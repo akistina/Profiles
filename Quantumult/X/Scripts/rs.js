@@ -1460,10 +1460,10 @@ function rule_list_handle(cnt) {
   var RuleK = ["//", "#", ";", "[", "!", "/"]
   const RuleCheck = (item) => cnt.trim().indexOf(item) == 0; //无视注释行
   const nocheck = (item) => /^\d+$/.test(item) //检查数字项
+  const isClashProvider = typec == "Clash-Provider"
   cnt = cnt.split("#")[0].trim() // 去除注释部分
-  cnt = cnt.replace(/^\-\s*/, "") // 兼容 YAML 列表项
-  cnt = cnt.replace(/^['"]|['"]$/g, "").trim() // 去除首尾引号
   if (cnt.trim().indexOf(" ") == -1 && cnt.trim() != "" && !RuleK.some(RuleCheck)) {
+    cnt = cnt.replace(/'|"/g, "").trim()
     if (cnt.indexOf("::") != -1 && cnt.indexOf("/") != -1) { // ip-v6?
       cnt = "ip6-cidr, " + cnt
       cnt = Ppolicy == "Shawn" ? cnt + ", Shawn" : cnt + ", " + Ppolicy
@@ -1473,16 +1473,23 @@ function rule_list_handle(cnt) {
     } else if (cnt.split(".").length == 4 && cnt.split(".").every(nocheck)) {  // ip 类规则
       cnt = "ip-cidr, " + cnt + "/32"
       cnt = Ppolicy == "Shawn" ? cnt + ", Shawn" : cnt + ", " + Ppolicy
-    } else if (cnt.indexOf("payload:") == -1) { //host - suffix, not clash rule list
-      //$notify("xxx","xxxx",cnt)
-      if (/^\+\./.test(cnt)) {
-        cnt = "host-suffix, " + cnt.replace(/^\+\./, "")
-      } else if (/^\./.test(cnt)) {
-        cnt = "host-suffix, " + cnt.replace(/^\./, "")
-      } else if (/^\*\./.test(cnt) || cnt.indexOf("*") != -1) {
-        cnt = "host-wildcard, " + cnt.replace(/^\*\./, "*.")
+    } else if (cnt.indexOf("payload:") == -1) { //host - suffix / clash provider domain rule
+      if (isClashProvider) {
+        if (/^(\+\.)/.test(cnt)) {
+          cnt = "host-suffix, " + cnt.replace(/^(\+\.)/, "") // +.example.com = 当前域名及其子域名
+        } else if (/^\.|\*\./.test(cnt) || /[\*\?]/.test(cnt)) {
+          // clash wildcard: .example.com, *.example.com, *.*.example.com, a?b.example.com
+          cnt = "host-wildcard, " + cnt.replace(/^\.|\*\./, "*.")
+        } else {
+          cnt = "host, " + cnt
+        }
       } else {
-        cnt = "host-suffix, " + cnt
+        if (!/\*|\+/.test(cnt[0])) {
+          cnt = cnt[0] == "." ? cnt.replace(".", "") : cnt
+          cnt = "host-suffix, " + cnt
+        } else {
+          cnt = "host-wildcard, " + cnt
+        }
       }
       cnt = Ppolicy == "Shawn" ? cnt + ", Shawn" : cnt + ", " + Ppolicy
     }
@@ -1496,13 +1503,10 @@ function Domain2Rule(content) {
     var RuleK = ["//", "#", ";","["]
     var nlist = []
     for (var i = 0; i< cnt.length; i++) {
-        cc = cnt[i].split("#")[0].trim();
-        cc = cc.replace(/^\-\s*/, "").replace(/^['"]|['"]$/g, "").trim();
-        const RuleCheck = (item) => cc.indexOf(item) == 0; //无视注释行
-        if(!RuleK.some(RuleCheck) && cc && cc != "payload:") {
-            if (/^\+\./.test(cc)) {
-                nlist.push("host-suffix, " + cc.replace(/^\+\./, "") )
-            } else if (cc[0] == "."){
+        cc = cnt[i].trim();
+        const RuleCheck = (item) => cc.indexOf(item) != -1; //无视注释行
+        if(!RuleK.some(RuleCheck) && cc) {
+            if (cc[0] == "."){
                 nlist.push("host-suffix, " + cc.slice(1 , cc.length) )
             } else {
                 nlist.push("host, " + cc )
